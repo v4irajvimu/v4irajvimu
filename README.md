@@ -1,23 +1,20 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Viraj Vimukthi Jayasinghe
-=================================================================================================================================================
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Viraj Vimukthi Jayasinghe
 
-Senior Software Engineer | javaScript Lover | Frontend Development Expert.
---------------------------------------------------------------------------
+## Senior Software Engineer | javaScript Lover | Frontend Development Expert.
 
 Experienced Software Engineer with a demonstrated history of working in the computer software industry. Strong engineering professional with a Bachelor of Applied Science (B.Sc.) focused in Computing and Information Systems from Sabaragamuwa University of Sri Lanka.
 
-* 🌍  I'm based in Mawanella, Sri Lanka.
-* 🖥️  See my portfolio at [vimukthijayasinghe.com](http://www.vimukthijayasinghe.com/)
-* ✉️  You can contact me at [viraj.vimu@gmail.com](mailto:viraj.vimu@gmail.com)
-* 🧠  I'm learning flutter, micro frontends, AWS
-* ⚡  javaScript, TypeScript, React JS, React Native, Flutter and Serverless
+- 🌍  I'm based in Mawanella, Sri Lanka.
+- 🖥️  See my portfolio at [v4irajvimu.github.io](https://v4irajvimu.github.io/)
+- ✉️  You can contact me at [viraj.vimu@gmail.com](mailto:viraj.vimu@gmail.com)
+- 🧠  I'm learning flutter, micro frontends, AWS
+- ⚡  javaScript, TypeScript, React JS, React Native, Flutter and Serverless
 
 <a href="https://www.twitter.com/v4irajvimu" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/v4irajvimu?logo=twitter&style=for-the-badge&color=ffffff&labelColor=000000"
 /></a>
 
 ### Skills
-
 
 <p align="left">
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
@@ -54,7 +51,6 @@ src="https://img.shields.io/twitter/follow/v4irajvimu?logo=twitter&style=for-the
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 <a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a>
 </p>
-
 
 ### Socials
 
