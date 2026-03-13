@@ -60,6 +60,4 @@ src="https://img.shields.io/twitter/follow/v4irajvimu?logo=twitter&style=for-the
 
 <!-- [![v4irajvimu's GitHub stats](https://github-readme-stats.vercel.app/api?username=v4irajvimu&show_icons=true&include_all_commits=true&count_private=true&theme=merko)](https://github.com/v4irajvimu) -->
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=v4irajvimu&theme=merko)](https://github.com/v4irajvimu)
-
-![Stats](./profile/stats.svg)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=v4irajvimu&theme=merko)](https://github.com/v4irajvimu) ![Stats](./profile/stats.svg)
