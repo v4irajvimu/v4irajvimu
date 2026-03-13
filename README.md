@@ -55,3 +55,11 @@ src="https://img.shields.io/twitter/follow/v4irajvimu?logo=twitter&style=for-the
 ### Socials
 
 <p align="left"> <a href="https://www.codepen.io/v4irajvimu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> <a href="https://www.dev.to/v4irajvimu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/v4irajvimu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/v4irajvimu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/v4irajvimu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@viraj.vimu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/11748563/vimukthi-jayasinghe" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/v4irajvimu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
+## Stats
+
+[![v4irajvimu's GitHub stats](https://github-readme-stats.vercel.app/api?username=v4irajvimu&show_icons=true&include_all_commits=true&count_private=true&theme=merko)](https://github.com/v4irajvimu)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=v4irajvimu&theme=merko)](https://github.com/v4irajvimu)
+
+![Stats](./profile/stats.svg)
