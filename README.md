@@ -2,7 +2,9 @@
 
 ## Senior Software Engineer | javaScript Lover | Frontend Development Expert.
 
-Experienced Software Engineer with a demonstrated history of working in the computer software industry. Strong engineering professional with a Bachelor of Applied Science (B.Sc.) focused in Computing and Information Systems from Sabaragamuwa University of Sri Lanka.
+Associate Technical Specialist and Senior Full Stack Engineer dedicated to architecting AI-enhanced digital ecosystems. I bridge the gap between intelligent cloud infrastructure and intuitive user interfaces, transforming ambitious, data-driven ideas into scalable, production-ready software.
+
+With a mastery of JavaScript, TypeScript, and Python, I build performant, accessible solutions using React and Next.js on the frontend and Node.js with AWS Serverless (Lambda, DynamoDB) on the backend. I am passionate about clean code and high-end UX, specialized in integrating Generative AI and LLMs to move beyond traditional development into the next generation of intelligent, cloud-native applications.
 
 - 🌍  I'm based in Mawanella, Sri Lanka.
 - 🖥️  See my portfolio at [v4irajvimu.github.io](https://v4irajvimu.github.io/)
