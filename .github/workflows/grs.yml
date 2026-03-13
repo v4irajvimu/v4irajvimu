@@ -18,7 +18,13 @@ jobs:
           options: username=${{ github.repository_owner }}&show_icons=true&count_private=true&theme=merko&show=reviews,prs_merged,prs_merged_percentage
           path: profile/stats.svg
           token: ${{ secrets.README_STATS_TOKEN }}
-
+      - name: Generate top languages card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=6&theme=merko
+          path: profile/top-langs.svg
+          token: ${{ secrets.README_STATS_TOKEN }}
       - name: Commit cards
         run: |
           git config user.name "github-actions"

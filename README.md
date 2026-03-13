@@ -61,3 +61,5 @@ src="https://img.shields.io/twitter/follow/v4irajvimu?logo=twitter&style=for-the
 <!-- [![v4irajvimu's GitHub stats](https://github-readme-stats.vercel.app/api?username=v4irajvimu&show_icons=true&count_private=true&theme=merko&show=reviews,prs_merged,prs_merged_percentage)](https://github.com/v4irajvimu) -->
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=v4irajvimu&theme=merko)](https://github.com/v4irajvimu) ![Stats](./profile/stats.svg)
+
+![Stats](./profile/top-langs.svg)
