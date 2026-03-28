@@ -1,6 +1,6 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Viraj Vimukthi Jayasinghe
 
-## Senior Software Engineer | javaScript Lover | Frontend Development Expert.
+## Associate Technical Specialist | javaScript Lover | Frontend Development Expert.
 
 Associate Technical Specialist and Senior Full Stack Engineer dedicated to architecting AI-enhanced digital ecosystems. I bridge the gap between intelligent cloud infrastructure and intuitive user interfaces, transforming ambitious, data-driven ideas into scalable, production-ready software.
 
