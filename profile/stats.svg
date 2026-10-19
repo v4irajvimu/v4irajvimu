@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Vimukthi Jayasinghe's GitHub Stats, Rank: B+</title>
-        <desc id="descId">Total Stars Earned: 6, Total Commits  (last year) : 667, Total PRs: 871, Total PRs Merged: 826, Merged PRs Percentage: 94.83, Total PRs Reviewed: 210, Total Issues: 8, Contributed to (last year): 35</desc>
+        <desc id="descId">Total Stars Earned: 6, Total Commits  (last year) : 639, Total PRs: 871, Total PRs Merged: 826, Merged PRs Percentage: 94.83, Total PRs Reviewed: 204, Total Issues: 8, Contributed to (last year): 35</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 111.25855819883205;
+        stroke-dashoffset: 111.79060617739857;
       }
     }
   
@@ -177,7 +177,7 @@
         x="219.01"
         y="12.5"
         data-testid="commits"
-      >667</text>
+      >639</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -237,7 +237,7 @@
         x="219.01"
         y="12.5"
         data-testid="reviews"
-      >210</text>
+      >204</text>
     </g>
   </g><g transform="translate(0, 150)">
     <g class="stagger" style="animation-delay: 1350ms" transform="translate(25, 0)">
